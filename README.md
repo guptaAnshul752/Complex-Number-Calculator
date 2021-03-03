@@ -6,4 +6,4 @@ I’ve built a Complex Number Calculator using the knowledge of Python Classes &
 
 User can select to perform operations such as Addition, Subtraction, Multiplication, Division, Argument value, Conjugate value and Modulus value based on their choice.
 
-`Note`: Run both the cells of the jupyter notebook to execute and perform calculations
+`Note`: Run both the cells of the jupyter notebook to execute and perform calculations.
